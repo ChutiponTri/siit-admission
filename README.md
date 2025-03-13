@@ -1,2 +1,2 @@
 # siit-admission
-For SIIT Chatbot
+For SIIT Chatbot image storage
